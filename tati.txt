@@ -1,0 +1,11 @@
+ Le volume dans le lecteur C s'appelle Nouveau nom
+ Le num‚ro de s‚rie du volume est 1A11-454A
+
+ R‚pertoire de C:\Users\John\mesdepots\zoulou
+
+14-04-21  15:57    <DIR>          .
+14-04-21  15:57    <DIR>          ..
+14-04-21  15:57               375 tata.txt
+14-04-21  15:57                 0 tati.txt
+               2 fichier(s)              375 octets
+               2 R‚p(s)  77.434.163.200 octets libres
